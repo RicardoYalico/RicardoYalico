@@ -1,2 +1,6 @@
-<img src="https://s8.gifyu.com/images/ezgif-5-dd9af284a0.gif" style="width: 120px;"></a></p>
+Inline-style: 
+![alt text](https://pa1.narvii.com/6547/6ff6730ac7ae0ceaac2c00664f0016d794af4859_hq.gif "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
 
